@@ -9,3 +9,6 @@ pygame (CMD -> pip install pygame)
 random
 pygame.locals (*)
 mixer (from pygame)
+
+
+THE IMAGE AND THE MUSIC FILE SHOULD BE THE SAME ENVELOPE WITH THE PYTHON FILE !
